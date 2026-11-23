@@ -1,0 +1,16 @@
+# Install torch and torchvision separately from https://pytorch.org/get-started/locally/
+# Select the CPU or CUDA build appropriate for your machine.
+pandas
+numpy
+Pillow
+matplotlib
+scikit-learn
+tqdm
+fastapi
+uvicorn[standard]
+python-multipart
+pydicom
+opencv-python
+grad-cam
+monai
+pytest

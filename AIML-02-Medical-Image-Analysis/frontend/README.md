@@ -1,0 +1,1 @@
+# React frontend\nReact radiologist review interface will be implemented after the API contract is defined.\n

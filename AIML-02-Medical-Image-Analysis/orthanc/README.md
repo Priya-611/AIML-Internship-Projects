@@ -1,0 +1,1 @@
+# Orthanc\nOrthanc configuration and Docker Compose setup will be added during DICOM integration.\n
